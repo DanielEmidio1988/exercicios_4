@@ -1,2 +1,5 @@
-package br.com.alura.calculo;public interface Vendavel {
+package br.com.alura.calculo;
+
+public interface Vendavel {
+    double precoTotal();
 }
